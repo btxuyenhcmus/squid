@@ -1,4 +1,4 @@
-# Setup anomynouse proxy server
+# Setup Anonymous proxy server
 1. Clone source from git repository
 ```
 $git clone https://github.com/btxuyenhcmus/squid
