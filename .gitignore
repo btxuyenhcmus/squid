@@ -11,3 +11,12 @@
 
 pkg/
 src/
+.bash_history
+.bashrc
+.ssh/
+.bash_logout
+.viminfo
+.profile
+.sudo_as_admin_successful
+passwords
+squid/
