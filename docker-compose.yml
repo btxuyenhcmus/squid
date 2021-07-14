@@ -7,6 +7,7 @@ services:
     restart: always
     ports:
       - 80:3128
+      - 443:3129
     volumes:
       - ./squid/cache:/var/spool/squid
       - ./squid/logs:/var/log/squid
