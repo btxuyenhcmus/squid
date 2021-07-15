@@ -1,0 +1,5 @@
+#!/bin/bash
+pass=$(openssl rand -hex 12)
+echo $pass
+htpasswd -b -c passwords buyngon $pass
+docker-compose restart
